@@ -41,7 +41,7 @@ Abra [http://localhost:3000](http://localhost:3000) e veja a mágica acontecer! 
 - About: http://localhost:3000/about
 - Product Dinâmico: http://localhost:3000/product/1
 
-## 🌐 Rotas de API e Route Handlers
+## 🌐 Rotas de API *(padrão pages router)* e Route Handlers *(padrão app router)*
 
 ### Modalidade Page Router:
 
