@@ -9,21 +9,24 @@ Olá, aventureiro do mundo NextJS! 🌍 Se você está aqui, está prestes a exp
 git clone https://github.com/barrosohub/avanade_lab_treinamento_nextjs.git
 ```
 
-2. **Instale os pacotes**:
+2. **Entre na pasta**:
+```bash
+cd avanade_lab_treinamento_nextjs
+```
+
+3. **Instale os pacotes**:
 
 ```bash
 npm install
 ```
 
-
-3. **Rode o projeto**:
+4. **Rode o projeto**:
     
 ```bash
 npm run dev
 ```
 
-
-4. **Acesse no seu navegador**:
+5. **Acesse no seu navegador**:
 Abra [http://localhost:3000](http://localhost:3000) e veja a mágica acontecer! 🎩✨
 
 ## 🛤️ Rotas do Projeto
