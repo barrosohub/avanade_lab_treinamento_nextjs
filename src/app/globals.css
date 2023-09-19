@@ -1,3 +1,7 @@
+/**
+ * This code block imports the base, components, and utilities styles from Tailwind CSS.
+ * These styles are used to create a consistent and responsive design across the application.
+ */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

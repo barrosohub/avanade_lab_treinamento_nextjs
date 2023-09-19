@@ -1,3 +1,6 @@
+// Specifies the configuration options for the TypeScript compiler used in the project.
+// The "paths" property is used to map module names to file paths or glob patterns.
+// In this case, the "@/*" module is mapped to all files in the "src" directory.
 {
   "compilerOptions": {
     "paths": {

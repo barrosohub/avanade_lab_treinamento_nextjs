@@ -1,3 +1,9 @@
+/**
+ * Tailwind CSS configuration file.
+ * @module tailwindConfig
+ * @see {@link https://tailwindcss.com/docs/configuration|Tailwind CSS Configuration}
+ */
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [

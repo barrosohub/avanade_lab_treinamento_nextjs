@@ -1,5 +1,9 @@
 import Button from "./components/button"
 
+/**
+ * Renders the Home page component.
+ * @returns {JSX.Element} The Home page component.
+ */
 export default function Home() {  
 
   return (
