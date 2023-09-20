@@ -33,27 +33,27 @@ Abra [http://localhost:3000](http://localhost:3000) e veja a mágica acontecer! 
 
 ### Modalidade Page Router:
 
-- Home Page: http://localhost:3000/home-page
-- Contact Page: http://localhost:3000/contact-page
-- User Dinâmico: http://localhost:3000/users/1
+- Home Page: http://localhost:3000/home-page *(arquivo localizado em: **src/pages/home-page.js**)*
+- Contact Page: http://localhost:3000/contact-page *(arquivo localizado em: **src/pages/contact-page.js**)*
+- User Dinâmico: http://localhost:3000/users/1 *(arquivo localizado em: **src/pages/users/[id].js**)*
 
 ### Modalidade App Router:
 
-- Home: http://localhost:3000/
-- Contact: http://localhost:3000/contact
-- About: http://localhost:3000/about
-- Product Dinâmico: http://localhost:3000/product/1
+- Home: http://localhost:3000/ *(arquivo localizado em: **src/app/page.js**)*
+- Contact: http://localhost:3000/contact *(arquivo localizado em: **src/app/contact/page.js**)*
+- About: http://localhost:3000/about *(arquivo localizado em: **src/app/about/page.js**)*
+- Product Dinâmico: http://localhost:3000/product/1 *(arquivo localizado em: **src/app/product/[id]/page.js**)*
 
 ## 🌐 Rotas de API *(padrão pages router)* e Route Handlers *(padrão app router)*
 
 ### Modalidade Page Router:
 
-- API Hello: http://localhost:3000/api/hello
+- API Hello: http://localhost:3000/api/hello *(arquivo localizado em: **src/pages/api/hello.js**)*
 
 ### Modalidade App Router:
 
-- API Base: http://localhost:3000/api
-- API Users: http://localhost:3000/api/user
+- API Base: http://localhost:3000/api *(arquivo localizado em: **src/app/api/route.js**)*
+- API Users: http://localhost:3000/api/user *(arquivo localizado em: **src/app/api/users/route.js**)*
 
 ## 📚 Mais sobre os padrões
 
