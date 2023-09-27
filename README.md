@@ -53,7 +53,7 @@ Abra [http://localhost:3000](http://localhost:3000) e veja a mágica acontecer! 
 ### Modalidade App Router:
 
 - API Base: http://localhost:3000/api *(arquivo localizado em: **src/app/api/route.js**)*
-- API Users: http://localhost:3000/api/user *(arquivo localizado em: **src/app/api/users/route.js**)*
+- API Users: http://localhost:3000/api/users *(arquivo localizado em: **src/app/api/users/route.js**)*
 
 ## 📚 Mais sobre os padrões
 
